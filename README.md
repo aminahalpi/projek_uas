@@ -35,22 +35,21 @@ Terdapat tautan media sosial yang dapat diklik.
 - Firebase (untuk konfigurasi database)
 
 ## 📁 Struktur Project
+
+```
 gicare-uad/
 │
 ├── public/
 ├── src/
-│ ├── components/
-│ ├── App.js
-│ ├── Firebase.js
-│ └── index.js
+│   ├── components/
+│   ├── App.js
+│   ├── Firebase.js
+│   └── index.js
 │
 ├── package.json
 ├── tailwind.config.js
 └── README.md
-
-
-
----
+```
 
 ## 👩‍💻 Peran Saya
 
