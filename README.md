@@ -47,3 +47,39 @@ gicare-uad/
 ├── package.json
 ├── tailwind.config.js
 └── README.md
+
+
+
+---
+
+## 👩‍💻 Peran Saya
+
+Full Frontend Development
+
+- Perancangan dan implementasi tampilan (UI)
+- Pengelolaan routing halaman
+- Implementasi fitur CRUD reservasi
+- Integrasi konfigurasi Firebase
+- Penyusunan struktur komponen React
+
+---
+
+## 🎯 Tujuan Pengembangan
+
+Project ini dikembangkan untuk mengimplementasikan konsep aplikasi reservasi berbasis web dengan fokus pada:
+
+- Pengalaman pengguna (User Experience)
+- Manajemen data sederhana
+- Struktur komponen React yang terorganisir
+
+---
+
+## ▶️ Cara Menjalankan Project
+
+1. Clone repository
+2. Masuk ke folder project
+3. Install dependencies
+
+```bash
+npm install
+npm start
